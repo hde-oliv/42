@@ -10,3 +10,6 @@
 [submodule "ft_printf"]
 	path = ft_printf
 	url = https://github.com/hde-oliv/ft_printf
+[submodule "so_long"]
+	path = so_long
+	url = https://github.com/hde-oliv/so_long
