@@ -1,17 +1,27 @@
+#+TITLE: 42
 #+AUTHOR: Henrique Rocha
 
-* Description
+** Description
 Here are all the projects I made during my journey on 42, grouped on this repository for the sake of simplicity.
 
-** Inner Circle
+** Projects
+*** Inner Circle
 | Project       | Badge                                                                  | Grade | Description                                                                                              |
+|---------------+------------------------------------------------------------------------+-------+---------------------------------------------------------------------------------------------------------|
 | Libft         | [[https://game.42sp.org.br/static/assets/achievements/libftm.png]]         |  115% | Project consisting on recreating various Libc functions and additional ones.                             |
 | Get_Next_Line | [[https://game.42sp.org.br/static/assets/achievements/get_next_linem.png]] |  115% | Project consisting on creating a function that reads a file line per line without waste of system calls. |
 | Ft_Printf     | [[https://game.42sp.org.br/static/assets/achievements/ft_printfe.png]]     |  100% | Project consisting on recreating a simple version of printf.                                             |
 | Born2BeRoot   | [[https://game.42sp.org.br/static/assets/achievements/born2beroote.png]]   |  100% | A Sysadmin exercise, consisting on creating a server using Debian on a Virtual Machine                   |
 | So_Long       | [[https://game.42sp.org.br/static/assets/achievements/so_longe.png]]       |  100% | Project consisting on creating a playable 2D game using MinilibX, a wrapper for X window server.         |
 
-** Misc
+*** Misc
 | Project  | Description                                                     |
+|----------+-----------------------------------------------------------------|
 | Basecamp | An 1-month intensive C bootcamp to see if you are born to code. |
 | Enki     | Challenge from 42Labs, consisting on making a REST API using C. |
+-----------------------------------------------------------------------------------------------------------------------
+** Download
+To download it, just clone the repository with the ~--recursive~ flag.
+
+** License
+/All the works here are licensed under GPLv3, except where explicited./
