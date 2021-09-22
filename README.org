@@ -1,4 +1,3 @@
-#+TITLE: 42_Cursus
 #+AUTHOR: Henrique Rocha
 
 * Description
