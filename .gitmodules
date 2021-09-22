@@ -13,3 +13,6 @@
 [submodule "so_long"]
 	path = so_long
 	url = https://github.com/hde-oliv/so_long
+[submodule "enki"]
+	path = enki
+	url = https://github.com/hde-oliv/enki
