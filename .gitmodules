@@ -1,3 +1,6 @@
 [submodule "basecamp"]
 	path = basecamp
 	url = https://github.com/hde-oliv/basecamp
+[submodule "libft"]
+	path = libft
+	url = https://github.com/hde-oliv/libft
