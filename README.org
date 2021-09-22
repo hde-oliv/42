@@ -1,0 +1,9 @@
+#+TITLE: 42_Cursus
+#+AUTHOR: Henrique Rocha
+
+| Project       | Badge                                                                  | Grade | Description                                                                                              |
+| Libft         | [[https://game.42sp.org.br/static/assets/achievements/libftm.png]]         |  115% | Project consisting on recreating various Libc functions and addtional ones.                              |
+| Get Next Line | [[https://game.42sp.org.br/static/assets/achievements/get_next_linem.png]] |  115% | Project consisting on creating a function that reads a file line per line without waste of system calls. |
+| FtPrintf      | [[https://game.42sp.org.br/static/assets/achievements/ft_printfe.png]]     |  100% | Project consisting on reacreating a simple version of printf.                                            |
+| Born2BeRoot   | [[https://game.42sp.org.br/static/assets/achievements/born2beroote.png]]   |  100% | A SysAdmin exercise, consisting on creating a server using Debian on a Virtual Machine                   |
+| So Long       | [[https://game.42sp.org.br/static/assets/achievements/so_longe.png]]       |  100% | Project consisting on creating a playable 2D game using MinilibX, a wrapper for X window server.         |
