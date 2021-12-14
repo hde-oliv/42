@@ -16,3 +16,9 @@
 [submodule "enki"]
 	path = enki
 	url = https://github.com/hde-oliv/enki
+[submodule "minitalk"]
+	path = minitalk
+	url = git@github.com:hde-oliv/minitalk.git
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:hde-oliv/push_swap.git
